@@ -8,3 +8,4 @@ pls contribute
 
 
 pls if u have doubts email me on ** riaanmshah@gmail.com **
+![GitHub Logo](/images/logo.png)
