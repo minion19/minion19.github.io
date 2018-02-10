@@ -1,6 +1,6 @@
 # best coder #
 a repository for all my python projects an electronics using python 
-*ONLY PYTHON *
+*ONLY PYTHON & 3D PRINTER *
 # original #
 pls contribute
 # pls visit website it is #
