@@ -4,4 +4,4 @@ a repository for all my python projects an electronics using python
 # original #
 pls contribute
 # pls visit website #
-pls if u have doubts email me on ** rianmshah@gmail.com **
+pls if u have doubts email me on ** riaanmshah@gmail.com **
